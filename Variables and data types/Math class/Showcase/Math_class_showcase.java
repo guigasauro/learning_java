@@ -1,3 +1,5 @@
+
+// Showcasing some of the methods inside the math class
 class Math_class_showcase{
 
 	public static void main(String[] args){
@@ -7,7 +9,7 @@ class Math_class_showcase{
 
 		System.out.println("x = " + x);
 		System.out.println("y = " + y);
-
+		
 		double z = Math.max(x, y);
 
 		System.out.println("The biggest number between x and y is: " + z);
